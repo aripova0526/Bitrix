@@ -1,0 +1,212 @@
+@media (min-width: 1200px){
+
+}
+@media (max-width: 991.9px) {
+
+}
+@media (max-width: 767.9px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    h5{
+        display: none;
+    }
+    .col-4,.col-6,.col-8,.col-7{
+        flex: 100px;
+        max-width: 100.0%;
+        -ms-flex: 100%;
+    }
+    .begin{
+        justify-content: space-between;
+        display: flex;
+    }
+    .icon-clock{
+        display: contents;
+    }
+   .bold{
+       display: flex;
+       text-align: center;
+       justify-content: center;
+       font-size: 21px;
+    }
+    .col-62 img {
+        padding: 0;
+    }
+    .all-icon .icon-chat,.icon-cloud,.icon-doc-text,.icon-filter{
+        width: 100px;
+        height: 100px;
+        font-size: 39px;
+        padding: 26px 0 0 0;
+    }
+    .span{
+       color: #FFFFFF;
+        padding: 1px 12px;
+    }
+    .row{
+        flex-direction: column;
+    }
+    .col-4{
+        width: 100%;
+    }
+    .col-6{
+        width: 100%;
+    }
+    .all-icon .icon-users{
+        width: 100px;
+        height: 100px;
+        font-size: 39px;
+        padding: 26px 6px 0 0;
+    }
+    .all-icon{
+        flex-direction: column;
+        padding: 0;
+    }
+    #what .container{
+        margin-left: 0;
+    }
+    body h1{
+        font-size: 21px;
+        padding: 28px 0 12px 0;
+        font-weight: 400;
+    }
+    .row .col-4{
+        font-size: 14px;
+    }
+    .col-6 .next-to{
+        width: 350px;
+    }
+    .all-new{
+        flex-direction: column;
+    }
+    .send{
+        width: 171px;
+        height: 32px;
+        display: none;
+    }
+    .send2{
+        width: 171px;
+        height: 32px;
+        display: flex;
+        font-size: 13px;
+        justify-content: center;
+        margin: 30px 0 19px 0;
+    }
+    body h2{
+        font-size: 14px;
+    }
+    body .on{
+        font-size: 13px;
+    }
+    .col-62 img{
+        width: 328px;
+    }
+    #logotip .logo{
+        width: 243px;
+    }
+    #logotip .publications-title{
+        font-size: 14px;
+    }
+    #bt-body .circle{
+        width: 111px;
+    }
+    .col-4 .c1-style{
+        width: 208px;
+    }
+    .sel1 .light{
+        font-size: 9px ;
+    }
+    .sel1 .table{
+        font-size: 11px;
+    }
+    img{
+        width: 306px;
+    }
+    .col-4-style{
+        padding: 0;
+    }
+    body .h5{
+        margin: 0 15px 0 0;
+        font-size: 14px;
+    }
+    #a-lot-img .container{
+        padding: 0 32px 0 48px;
+    }
+    #img .container{
+        padding: 0 32px 0 48px;
+    }
+    #vebinar .container .col-62{
+        padding: 0 32px 0 48px;
+    }
+    p{
+        font-size: 12px;
+    }
+    #bitrix .container{
+        padding: 0;
+    }
+    .col-6 .next-to{
+        width: 259px;
+    }
+    #more{
+        padding: 39px 0 39px 0;
+    }
+    .two-conpany{
+        width: 100px;
+        display: flex;
+        justify-content: center;
+    }
+    .one-company{
+        justify-content: center;
+    }
+    .tri-company{
+        justify-content: center;
+    }
+    .four-company{
+        justify-content: center;
+    }
+    .under-button{
+        margin: 20px 0 0 0;
+    }
+    .col-72{
+        padding: 0;
+    }
+    button{
+        font-size: 13px;
+    }
+    .bold2{
+        text-align: left;
+        justify-content: left;
+    }
+    .radius-2px2{
+        width: 160px;
+    }
+    #end .container-ser_{
+        flex-direction: column;
+    }
+    .col-8,.col-4{
+        padding: 0 0 0 15px;
+    }
+    .container-text{
+        flex-direction: column;
+    }
+    .ffffff-teb{
+        padding: 0 17px 0 18px;
+    }
+    .col-43{
+        padding: 0;
+    }
+}
+
+@media (max-width: 319.9px) {
+    #what .bold{
+        font-size: 1.625rem;
+        display: flex;
+        text-align: center;
+    }
+    .all-icon .icon-chat,.icon-cloud,.icon-users,.icon-doc-text,.icon-filter{
+        padding: 9px 6px 0 0;
+        width: 55px;
+        height: 55px;
+        font-size: 29px;
+    }
+}
